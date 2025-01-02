@@ -35,8 +35,10 @@ o	File -> Open -> Select the cloned repository folder
 3.	Install the required dependencies:
 o	Gradle will automatically download and install the required dependencies when you open the project in Android Studio.
 4.	Run the app:
-o	Connect an Android device or start an emulator.
-o	Click on the "Run" button in Android Studio.
+	Connect an Android device or start an emulator.
+	Click on the "Run" button in Android Studio.
+
+
 Usage 🚀
 To use the HealthPulse app, follow these steps:
 1.	Register or Log in:
@@ -100,6 +102,6 @@ For any questions or suggestions, feel free to contact me:
 •	LinkedIn: https://www.linkedin.com/in/jaithun-shifaya03
 
 
-Thank you for checking out the HealthPulse project! We hope you find it useful and look forward to your feedback. 😊
+Thank you for checking out the HealthPulse project! I hope you find it useful and look forward to your feedback. 😊
 
 
