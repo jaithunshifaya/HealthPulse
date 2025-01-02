@@ -49,6 +49,8 @@ o	Select an available time slot and confirm your appointment.
 o	View, reschedule, or cancel your appointments as needed.
 5.	In-App Chat:
 o	Use the secure messaging system to communicate with your doctor.
+
+
 Technologies Used 🛠️
 •	Android Studio: For developing the Android application.
 •	Firebase: For authentication, real-time database, and notifications.
@@ -57,21 +59,27 @@ Technologies Used 🛠️
 •	Retrofit: For handling network requests.
 •	Glide: For image loading and caching.
 •	Material Design: For creating a modern and intuitive user interface.
+
+
 Future Enhancements 🔮
 •	Telemedicine: Integrate video call functionality for remote consultations.
 •	Payment Gateway: Add online payment options for booking and consultation fees.
 •	Multi-language Support: Support multiple languages to cater to a broader audience.
 •	AI Recommendations: Implement AI to recommend doctors based on patient history and preferences.
 •	Integration with Wearables: Sync with wearable devices to provide doctors with real-time health data.
+
+
 Acknowledgements 🙏
 We would like to thank the following resources and communities for their invaluable support:
 •	Firebase Community: For their extensive documentation and support.
 •	Android Developers: For providing comprehensive tutorials and resources.
 •	Material Design: For offering design guidelines and components.
+
 Contact 📬
 For any questions or suggestions, feel free to contact me:
 •	Email: jaithunshifaya@gmail.com
 •	LinkedIn: https://www.linkedin.com/in/jaithun-shifaya03
-Thank you for checking out the HealthPulse project! We hope you find it useful and look forward to your feedback. 😊
+
+          Thank you for checking out the HealthPulse project! We hope you find it useful and look forward to your feedback. 😊
 
 
